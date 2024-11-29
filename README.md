@@ -29,7 +29,7 @@ The Kinect V2 sensor is a powerful tool for capturing depth and color data. This
    ```bash
    git clone https://github.com/yourusername/Data-collection-using-kinectV2.git
    ```
-3. Open the project in Visual Studio, select your prepare programming either [python](#) or [matlab](#) and build the solution.
+3. Open the project in Visual Studio, select your prefared programming either [python](./Python_version/README.md) or [matlab](<./Matlab_based(old)/README.md>) and build the solution.
 
 ## Usage
 
